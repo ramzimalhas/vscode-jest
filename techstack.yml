@@ -2,7 +2,7 @@ repo_name: ramzimalhas/vscode-jest
 report_id: adfda8542f40ee7136e4a0e464d32cbc
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:56:45+00:00'
+timestamp: '2024-02-29T19:32:09+00:00'
 requested_by: connectdotz
 provider: github
 branch: master
@@ -93,7 +93,7 @@ tools:
   last_updated_by: ConnectDotz
   last_updated_on: 2022-10-20 19:20:46.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.2
   license: MIT

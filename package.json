@@ -478,7 +478,7 @@
     "update-vscode-type": "npx vscode-dts main; mv ./vscode.d.ts ./typings"
   },
   "dependencies": {
-    "istanbul-lib-coverage": "^3.2.0",
+    "istanbul-lib-coverage": "^3.2.2",
     "istanbul-lib-source-maps": "^4.0.1",
     "jest-editor-support": "^31.0.1"
   },
